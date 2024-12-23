@@ -7,8 +7,8 @@
 <meta content="" name="keywords">
 
 <!-- Favicons -->
-<link href="<?= $root ?>assets/img/favicon.png" rel="icon">
-<link href="<?= $root ?>assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+<link href="<?= $root ?>databaseone/img/favicon.png" rel="icon">
+<link href="<?= $root ?>databaseone/img/apple-touch-icon.png" rel="apple-touch-icon">
 <link  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
 <!-- Google Fonts -->
@@ -29,7 +29,7 @@
 
 
 <!-- Template Main CSS File -->
-<link href="<?= $root ?>assets/css/style.css" rel="stylesheet">
+<link href="<?= $root ?>databaseone/css/style.css" rel="stylesheet">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
 <!-- =======================================================
