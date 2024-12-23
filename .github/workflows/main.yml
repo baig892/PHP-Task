@@ -12,6 +12,6 @@ jobs:
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.3.2
       with:
-        server: web app
-        username: ec2-user
-        password: ${{SECRETS.SERVERPASSWORD}}
+        server: database1.c7gmk6ywo6rb.us-east-1.rds.amazonaws.com
+        username: admin
+        password: Rana363194
