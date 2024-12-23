@@ -18,14 +18,14 @@
     rel="stylesheet">
 
 <!-- Vendor CSS Files -->
-<link href="<?= $root ?>assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<link href="<?= $root ?>assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-<link href="<?= $root ?>assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-<link href="<?= $root ?>assets/vendor/quill/quill.snow.css" rel="stylesheet">
-<link href="<?= $root ?>assets/vendor/quill/quill.bubble.css" rel="stylesheet">
-<link href="<?= $root ?>assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+<link href="<?= $root ?>databaseone/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="<?= $root ?>databaseone/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+<link href="<?= $root ?>databaseone/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+<link href="<?= $root ?>databaseone/vendor/quill/quill.snow.css" rel="stylesheet">
+<link href="<?= $root ?>databaseone/vendor/quill/quill.bubble.css" rel="stylesheet">
+<link href="<?= $root ?>databaseone/vendor/remixicon/remixicon.css" rel="stylesheet">
 <!-- <link href="<?= $root ?>assets/vendor/simple-datatables/style.css" rel="stylesheet"> -->
-<link href="<?= $root ?>assets/vendor/datatables/datatables.min.css" rel="stylesheet">
+<link href="<?= $root ?>databaseone/vendor/datatables/datatables.min.css" rel="stylesheet">
 
 
 <!-- Template Main CSS File -->
